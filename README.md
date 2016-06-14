@@ -1,6 +1,6 @@
 # format-scientific-names
 
-´´´php
+```php
 
 /*
  * Criado por thalles ramon rosa <labufes@gmail.com>
@@ -40,4 +40,4 @@ $output = preg_replace("/^(\s\W)/", "", $output);
 
 echo $output; //print SMITH, J. B. M.
 
-´´´
+```
